@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/prismcosmic/static/css/main.56f79415.css",
+    "main.js": "/prismcosmic/static/js/main.46a23356.js",
+    "static/media/cybersecurity.jpg": "/prismcosmic/static/media/cybersecurity.3d4ffae5a49325a3a3f9.jpg",
+    "static/media/graphicdesign.jpg": "/prismcosmic/static/media/graphicdesign.126a98616840290e9e01.jpg",
+    "static/media/androiddev.jpg": "/prismcosmic/static/media/androiddev.cb4db7077ca785a8a044.jpg",
+    "static/media/python.jpg": "/prismcosmic/static/media/python.1292b33172f59b1ad832.jpg",
+    "static/media/dataanalytics.jpg": "/prismcosmic/static/media/dataanalytics.dea219f6a2e046995802.jpg",
+    "static/media/datascience.jpg": "/prismcosmic/static/media/datascience.7cf13995cba9bf1543ec.jpg",
+    "static/media/webdev.jpg": "/prismcosmic/static/media/webdev.91491626977d68ef1191.jpg",
+    "static/media/hero.gif": "/prismcosmic/static/media/hero.2579604600129ca89955.gif",
+    "static/media/javaprogram.jpg": "/prismcosmic/static/media/javaprogram.fe100efe2d91594623ba.jpg",
+    "static/media/cloudcomputing.svg": "/prismcosmic/static/media/cloudcomputing.8a588933b08013e9b8cd4686460b8d16.svg",
+    "static/media/contact.gif": "/prismcosmic/static/media/contact.5621eb9a1a486f40a43c.gif",
+    "static/media/cloud.svg": "/prismcosmic/static/media/cloud.fe78e3ca23434a93435fb39872445e44.svg",
+    "static/media/web.svg": "/prismcosmic/static/media/web.d4292b49d81595c2b10ac9c1601b4ff4.svg",
+    "static/media/graphic.svg": "/prismcosmic/static/media/graphic.02d37582d05d9a0319f841a3cc33c321.svg",
+    "static/media/database.svg": "/prismcosmic/static/media/database.fcadb4cc61ae9ab0cbff98f2f707d03d.svg",
+    "static/media/machinelearning.svg": "/prismcosmic/static/media/machinelearning.0c1c81843baeaf83d0e09a0fed66b121.svg",
+    "static/media/about.svg": "/prismcosmic/static/media/about.92679cedfda49a8b827ebfdecfa4ee34.svg",
+    "static/media/animation.svg": "/prismcosmic/static/media/animation.21de6d558391dcf075fed7e9e7f4355b.svg",
+    "static/media/Logo.svg": "/prismcosmic/static/media/Logo.88c046b9112b2ca4d46f10d112b2a989.svg",
+    "index.html": "/prismcosmic/index.html",
+    "main.56f79415.css.map": "/prismcosmic/static/css/main.56f79415.css.map",
+    "main.46a23356.js.map": "/prismcosmic/static/js/main.46a23356.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56f79415.css",
+    "static/js/main.46a23356.js"
+  ]
+}
